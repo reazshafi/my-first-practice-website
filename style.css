@@ -1,0 +1,10 @@
+.my-style:hover{
+    margin-top: 2px;
+    text-decoration: underline;
+}
+.dot{
+    cursor: pointer;
+}
+.my-size{
+    width: 90px;
+}
